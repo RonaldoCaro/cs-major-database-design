@@ -26,16 +26,13 @@ QUERIES/
 ---
 
 ## 📊 Main Tables
-### Players
-- `player_id` (PK)  
 - `name`  
 - `nationality`  
-- `role`  
+- `role`
 - `maps_played`  
 - `rating`  
 
 ### Teams
-- `team_id` (PK)  
 - `name`  
 - `stage_started`  
 - `stage_ended`  
